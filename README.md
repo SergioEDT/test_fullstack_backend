@@ -1,7 +1,7 @@
 Repositorio para el proyecto Backend
 
 Requisitos previos
-- Python 3.7 o superior instalado en tu sistema.
+- Python 3.9 o superior instalado en tu sistema.
 
 Instalación
 1. Clona este repositorio en tu máquina local:
